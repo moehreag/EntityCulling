@@ -8,6 +8,9 @@
         "tr7zw",
         "Vic is a Cat (port)"
     ],
+    "contributors": [
+        "moehreag"
+    ],
     "contact": {
         "homepage": "https://github.com/viciscat/EntityCulling",
         "sources": "https://github.com/viciscat/EntityCulling",
