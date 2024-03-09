@@ -6,18 +6,18 @@ import io.github.axolotlclient.AxolotlClientConfig.annotation.annotations.Serial
 public class Config {
 
 	@SerializedName("disable_entity_culling")
-	public Boolean disableEntityCulling = false;
+	public boolean disableEntityCulling = false;
 
 
 	@SerializedName("disable_block_entity_culling")
-	public Boolean disableBlockEntityCulling = false;
+	public boolean disableBlockEntityCulling = false;
 
 
 	@SerializedName("show_f3_info")
-	public Boolean showF3Info = true;
+	public boolean showF3Info = true;
 
 
 	@SerializedName("glass_culls")
-	public Boolean glassCulls = false;
+	public boolean glassCulls = false;
 
 }

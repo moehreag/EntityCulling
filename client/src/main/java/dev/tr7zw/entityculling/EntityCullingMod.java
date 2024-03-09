@@ -5,10 +5,8 @@ import java.util.Set;
 import java.util.function.Function;
 
 import com.logisticscraft.occlusionculling.OcclusionCullingInstance;
-
 import io.github.axolotlclient.AxolotlClientConfig.annotation.AxolotlClientAnnotationConfig;
 import io.github.axolotlclient.AxolotlClientConfig.annotation.ConfigInstance;
-import io.github.axolotlclient.AxolotlClientConfig.api.AxolotlClientConfig;
 import net.fabricmc.api.ClientModInitializer;
 import net.minecraft.block.Block;
 import net.minecraft.block.entity.BlockEntity;
